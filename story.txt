@@ -1,0 +1,4 @@
+To jest przykładowa historia.
+Ma ona kilka słów.
+
+I puste linie.

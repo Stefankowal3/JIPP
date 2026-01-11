@@ -1,0 +1,3 @@
+Linia 1
+Linia 2 z tekstem
+Linia 3

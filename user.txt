@@ -1,0 +1,2 @@
+Imię: Jan
+Wiek: 25
